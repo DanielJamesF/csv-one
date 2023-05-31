@@ -1,0 +1,6 @@
+[
+  { "name": "Daniel", "age": "21", "subject": "Web Development" },
+  { "name": "James", "age": "21", "subject": "Web Design" },
+  { "name": "Fred", "age": "21", "subject": "Software Engineer" },
+  { "name": "Rick", "age": "21", "subject": "UI/UX Design" }
+]
